@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "prepare": "husky install",
-    "test": "vitest"
+    "test": "vitest run"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
